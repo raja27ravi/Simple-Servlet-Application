@@ -1,0 +1,139 @@
+
+.welcomespeech{
+   
+    font-size:initial;
+    margin-left:20px;
+     font-style: italic;
+}
+.welcomesp{
+  font-size:initial;
+   text-align:center;
+}
+ .welcome{
+        font-weight:bold;
+    }
+.nameSection{
+    margin-left:220px !important;
+}
+    .courseNameSection{
+     margin-left:220px !important;
+    }
+    #dropdown{
+        height:20px;
+        width:300px;
+        margin-left:233px;
+    }
+    .header{
+	height:80px;
+	background-color: #00405d;
+}
+.footer{
+	height:80px;
+	background-color:#00405d;
+}
+.form{
+	height:900px;
+	background-color: white;
+	padding-top: 60px;
+}
+.formadmin{
+	height: auto;
+	background-color: white;
+	padding-top: 60px;
+        margin-bottom:25px;
+}
+.form1{
+    height:500px;
+	background-color: white;
+	padding-top: 60px;
+}
+.indexform{
+    height:500px;
+	background-color: white;
+	padding-top: 60px;
+}
+.btn-group{
+	margin-left:200px;
+	margin-top:40px;
+}
+#loginButton{
+    margin-left:470px;
+}
+#logButton{
+    margin-left:200px;
+}
+#downloadbutton{
+    margin-left:20px;
+    margin-bottom:20px !important;
+}
+    #anchorbutton{
+        color:white !important;
+          margin-left:20px;
+    }
+    #anchobutton{
+        margin-left:20px; 
+        color:white !important;
+    }
+
+.welcomespe{
+    font-size:25px;
+    color:#eb5424;
+    text-align:center;
+}
+.indexbuttonsad{
+    display:inline-block;
+    margin-right:70px;
+}
+.indexbuttonsuse{
+    display:inline-block;
+    margin-left:70px;
+}
+.retry{
+    
+    font-weight:bold;
+}
+#submitButton{
+    margin-left:345px;
+    margin-top:20px;
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    padding-top:20px;
+}
+.boldtext{
+    font: 20px Georgia, serif;
+}
+#adminimage{
+    width:150px;
+    height:150px;
+   
+}
+#userimage{
+    width:150px;
+    height:150px;
+    
+}
+.admintext{
+    text-align:center;
+    font-weight:bold;
+    color:#003366;
+}
+
+.Totaldiv{
+    width:auto;
+    text-align:center;
+}
+
+table.fixed td {
+    overflow: hidden;
+    word-break: break-all;
+}
+body{
+    background:#C7E2EB
+}
+
+.admincenter{
+    margin-left:150px;
+}
